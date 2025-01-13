@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 💼 I am a consultant, creator, and savvypreneur
+- 💼 I'm a consultant, technologist, and AI explorer
+- 👨‍👩‍👧‍👧 I'm a cofounder of 2 kids, happily married 💍, and a food 🍔🍕🌮 lover
 - 🔭 I’m currently working on applied AI, blogging, uncommon engineering, FIRE, and AI experiments
 - 🌱 I’m currently learning/improving my skills on AI, entrepreneurship, leverage, writing, and creating value
 - 💬 Ask me about AI, cybersecurity, engineering, FIRE, and technology
