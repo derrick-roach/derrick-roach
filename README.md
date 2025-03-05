@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on applied AI, blogging, uncommon engineering, FIRE, and AI experiments
 - 🌱 I’m currently learning/improving my skills on AI, entrepreneurship, leverage, writing, and creating value
 - 💬 Ask me about AI, cybersecurity, engineering, FIRE, and technology
-- ⚓ Main Site: [derrick-roach.github.io](https://derrick-roach.github.io)
+- 🧪 My Laboratory: [derrick-roach.github.io](https://derrick-roach.github.io)
 
 <br>
 
@@ -62,7 +62,11 @@ Here are some ideas to get you started:
 | **Software Supply Chain Security** | **Security Automation** |
 | **Secure SDLC** | **SAST/DAST** |
 
-<br>
+<br><br>
+<img src="./images/code-brackets.gif" width="100">&nbsp;
+<img src="./images/gears.gif" width="100">&nbsp;
+<img src="./images/rocket.gif" width="100">&nbsp;
+<br><br>
 
 ### 🔍 find me 🔗
 
@@ -71,12 +75,6 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/badge/-WEBSITE-0077B5?style=for-the-badge&logo=jekyll&logoColor=white)](https://derrick-roach.github.io)
 
 <br>
-
-<br><br>
-<img src="./images/code-brackets.gif" width="100">&nbsp;
-<img src="./images/gears.gif" width="100">&nbsp;
-<img src="./images/rocket.gif" width="100">&nbsp;
-<br><br>
 
 ### 💻 tech stack 📚
 
@@ -91,3 +89,7 @@ Here are some ideas to get you started:
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+
+<br><br>
+<img src="./images/laptop-wide.gif" width="800">
+<br><br>
